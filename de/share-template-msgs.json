@@ -1,0 +1,22 @@
+{
+    "1": {
+        "pageTitle": "Sieh dir meinen CryptoZombie {{ .ZombieName }} an!",
+        "ogDesc": "Ich habe gerade CryptoZombies Lektion 1 abgeschlossen und die Grundlagen der Programmierung eines Spiels auf Ethereum gelernt. Sieh die den ersten Zombie in meiner Armee an!"
+    },
+    "2": {
+        "pageTitle": "Mein CryptoZombie {{ .ZombieName }} hat gerade eine CryptoKitty verspeist und ist aufgestiegen!",
+        "ogDesc": "Ich habe gerade CryptoZombies Lektion 2 abgeschlossen und dabei eine wiederbelebte CryptoKitty zu meiner Zombie-Armeehinzugefügt. Sieh es dir an!"
+    },
+    "3": {
+        "pageTitle": "Sieh dir meine CryptoZombie Armee an!",
+        "ogDesc": "Ich habe gerade CryptoZombies Lektion 3 abgeschlossen! Meine Zombie-Armee wächst und wächst..."
+    },
+    "4": {
+        "pageTitle": "Mein CryptoZombie hat den teuflischen IOTA Zombie besiegt!",
+        "ogDesc": "Ich habe gerade CryptoZombies Lektion 4 abgeschlossen und dabei den teuflischen IOTA Zombie besiegt! Komm und erlebe den Kampf..."
+    },
+    "5": {
+        "pageTitle": "Meine CryptoZombie Armee ist gewachsen!",
+        "ogDesc": "Ich habe gerade CryptoZombies Lektion 5 abgeschlossen und habe dabei einen Level 10 H4XF13LD MORRIS 💯💯😎💯💯 Zombie erhalten OMG!"
+    }
+}
