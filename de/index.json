@@ -62,30 +62,30 @@
                 "Zeige deinen ersten Zombie deinen Freunden!",
                 "Hier ist ein Permalink zu deinem Zombie:"
             ],
-            "footer": "Make sure your progress is saved below before you proceed to Lesson 2.",
-            "zombieDesc": "A Level 1 CryptoZombie",
-            "shareLinkText": "I just completed #CryptoZombies Lesson 1 and learned the basics of coding a game on #Ethereum. Take a look at the first zombie in my army!"
+            "footer": "Bitte stell' unten sicher, dass dein aktueller Status gesichert wurde, bevor du mit Lektion 2 weiter machst.",
+            "zombieDesc": "Ein Level 1 CryptoZombie",
+            "shareLinkText": "Ich habe gerade #CryptoZombies Lektion 1 abgeschlossen und die Grundlagen der Programmierung eines Spiels für #Ethereum gelernt. Wirf einen Blick auf den ersten Zombie in meiner Armee!"
         },
         "lesson2": {
             "header": [
-                "Congratulations! You have completed {lesson2} of CryptoZombies!",
-                "Achievements Unlocked:",
-                "{zombieName} has been upgraded to Level 2!",
-                "You've added NoName, a CatZombie to your army! (Don't worry, you'll learn how to change his/her name in Lesson 3)",
-                "Show off your CryptoKitty-slayer to your friends!",
-                "Share this URL so your friends can slay CryptoKitties with your zombie:"
+                "Glückwunsch! Du hast {lesson2} von CryptoZombies abgeschlossen!",
+                "Belohnungen freigeschaltet:",
+                "{zombieName} wurde auf Level 2 befördert!",
+                "Du hast NoName, ein Katzen-Zombie zu deiner Armee hinzugefügt! (Keine Sorge, in Lektion 3 wirst du lernen, wie du ihren/seinen Name ändern kannst)",
+                "Zeige deinen CryptoKitty-Killer deinen Freunden!",
+                "Teile diese URL, damit deine Freunde CryptoKitties mit deinem Zombie erledigen können:"
             ],
             "footer": [
-                "Enjoying CryptoZombies? Let us know!",
-                "Join the conversation on {telegramLink}, or follow us on {twitterLink}",
-                "When you're ready, click the button below to access Lesson 3:"
+                "Gefällt dir CryptoZombies? Lass es uns wissen!",
+                "Diskutiere mit auf {telegramLink} oder folge uns auf {twitterLink}",
+                "Sobald du fertig bist, klicke auf den folgenden Button um mit Lektion 3 zu starten:"
             ],
-            "zombieDesc": "A Level 2 CryptoZombie",
-            "shareLinkText": "I just completed #CryptoZombies Lesson 2! My zombie ate some #CryptoKitties, and I learned more about #Ethereum development. Watch my zombie battle more CryptoKitties:"
+            "zombieDesc": "Ein Level 2 CryptoZombie",
+            "shareLinkText": "Ich habe gerade #CryptoZombies Lektion 2 abgeschlossen! Mein Zombie hat ein paar #CryptoKitties gegessen und ich hab' mehr über die Entwicklung für #Ethereum gelernt. Sieh dir an, wie mein Zombie mit noch mehr CryptoKitties kämpft:"
         },
         "lesson3": {
-            "achievementsUnlocked": "Achievements Unlocked:",
-            "zombieUpgraded": "{zombieName} has been upgraded to Level {levelNum}!",
+            "achievementsUnlocked": "Belohnungen freigeschaltet:",
+            "zombieUpgraded": "{zombieName} wurde auf Level {levelNum} befördert!",
             "header": [
                 "Congratulations! You have completed {lesson3} of CryptoZombies!",
                 "Show off your zombie army to your friends!",
@@ -100,7 +100,7 @@
             "shareLinkText": "I just completed #CryptoZombies Lesson 3! Check out my zombie army:"
         },
         "lesson4": {
-            "achievementsUnlocked": "Achievements Unlocked:",
+            "achievementsUnlocked": "Belohnungen freigeschaltet:",
             "zombieUpgraded": "{zombieName} has been upgraded to Level {levelNum}!",
             "newZombieAdded": "You've added a new Level 1 zombie to your army!",
             "header": [
@@ -117,7 +117,7 @@
             "shareLinkText": "I just completed #CryptoZombies Lesson 4, and defeated the evil IOTA zombie! Try it out yourself:"
         },
         "lesson5": {
-            "achievementsUnlocked": "Achievements Unlocked:",
+            "achievementsUnlocked": "Belohnungen freigeschaltet:",
             "newZombieAdded": "You received {zombieName}, a level {levelNum} CryptoZombie!",
             "header": [
                 "Congratulations! You have completed {lesson5} of CryptoZombies!",
